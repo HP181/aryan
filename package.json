@@ -2,7 +2,7 @@
   "name": "employee",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:5000",
+  "proxy": "http://44.223.18.91",
 
   "dependencies": {
     "@emotion/react": "^11.13.3",
